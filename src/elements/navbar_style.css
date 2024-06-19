@@ -1,0 +1,62 @@
+.navbar{  
+  display: flex;
+  justify-content: center; 
+
+}
+
+.button {
+    width: 100px;
+    height: 30px;
+    border-radius: 30px; /* Set border radius here */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5%;
+    transition: background-color 0.3s ease;
+    margin-left: 4px;
+  }
+.button:hover {
+  background-color: rgb(206, 205, 205); /* Background color on hover */
+}
+
+.header-text {
+    width: 200px;
+    height: 0.5%;
+    border-radius: 10px; /* Set border radius here */
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-top: 1%;
+
+  }
+
+.Sign-button{
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px; /* Set border radius here */
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+    transition: background-color 0.3s ease;
+    elevation: 50px;
+  }
+.sign-button:hover {
+  opacity: 0.5;
+}
+
+.loc-button{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px; /* Set border radius here */
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin-top: 1.5%;
+    margin-inline: 1%;
+    transition: background-color 0.3s ease;
+}
+
+

@@ -1,0 +1,141 @@
+.footer {
+    /* background-color: #f1e0d2; */
+    background-color: #ffffff;
+    padding: 40px 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-section {
+    width: 20%;
+    margin-right: 20px;
+  }
+  
+  .footer-section h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section li {
+    margin-bottom: 8px;
+  }
+  
+  .footer-section a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  .footer-section a:hover {
+    color: #007bff;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+  }
+  
+  .copyright {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .links {
+    font-size: 14px;
+  }
+  
+  .links a {
+    color: #666;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.2s ease;
+  }
+  
+  .links a:hover {
+    color: #007bff;
+  }
+  
+  .language-selector {
+    display: flex;
+    align-items: center;
+  }
+  
+  .currency-selector,
+  .country-selector {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+    margin-right: 15px;
+  }
+  
+  .currency-symbol {
+    font-size: 18px;
+    margin-right: 5px;
+  }
+  
+  .currency-code,
+  .country {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .dropdown-arrow {
+    font-size: 12px;
+    margin-left: 10px;
+  }
+  
+  .social-media {
+    display: flex;
+    align-items: center;
+  }
+  
+  .social-media a {
+    color: #666;
+    margin-right: 10px;
+    transition: color 0.2s ease;
+  }
+  
+  .social-media a:hover {
+    color: #007bff;
+  }
+  
+  .disclaimer {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .disclaimer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .footer-content {
+      flex-direction: column;
+    }
+  
+    .footer-section {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
