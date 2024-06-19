@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/P2B/static/css/main.42bdebbe.css",
-    "main.js": "/P2B/static/js/main.54e44030.js",
+    "main.js": "/P2B/static/js/main.8fa83e48.js",
     "static/js/453.e88e3944.chunk.js": "/P2B/static/js/453.e88e3944.chunk.js",
     "static/media/Peack2Beach_full.png": "/P2B/static/media/Peack2Beach_full.3d74603649cc9681fa12.png",
     "static/media/Peak2Beach_header.png": "/P2B/static/media/Peak2Beach_header.5eb6f78fea46fb99a887.png",
     "static/media/logo.svg": "/P2B/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/P2B/index.html",
     "main.42bdebbe.css.map": "/P2B/static/css/main.42bdebbe.css.map",
-    "main.54e44030.js.map": "/P2B/static/js/main.54e44030.js.map",
+    "main.8fa83e48.js.map": "/P2B/static/js/main.8fa83e48.js.map",
     "453.e88e3944.chunk.js.map": "/P2B/static/js/453.e88e3944.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42bdebbe.css",
-    "static/js/main.54e44030.js"
+    "static/js/main.8fa83e48.js"
   ]
 }
