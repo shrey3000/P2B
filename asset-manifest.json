@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/P2B/static/css/main.4cf4901c.css",
-    "main.js": "/P2B/static/js/main.5c234191.js",
-    "static/js/453.e88e3944.chunk.js": "/P2B/static/js/453.e88e3944.chunk.js",
-    "static/media/Peack2Beach_full.png": "/P2B/static/media/Peack2Beach_full.3d74603649cc9681fa12.png",
-    "static/media/Peak2Beach_header.png": "/P2B/static/media/Peak2Beach_header.5eb6f78fea46fb99a887.png",
-    "static/media/logo.svg": "/P2B/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/P2B/index.html",
-    "main.4cf4901c.css.map": "/P2B/static/css/main.4cf4901c.css.map",
-    "main.5c234191.js.map": "/P2B/static/js/main.5c234191.js.map",
-    "453.e88e3944.chunk.js.map": "/P2B/static/js/453.e88e3944.chunk.js.map"
+    "main.css": "/shrey3000.github.io/P2B/static/css/main.e7fdada0.css",
+    "main.js": "/shrey3000.github.io/P2B/static/js/main.4effc35f.js",
+    "static/js/453.5a9a3c59.chunk.js": "/shrey3000.github.io/P2B/static/js/453.5a9a3c59.chunk.js",
+    "static/media/transport.svg": "/shrey3000.github.io/P2B/static/media/transport.0b1b9c4baa93294c46444dd7c5b7ddea.svg",
+    "static/media/Peack2Beach_full.png": "/shrey3000.github.io/P2B/static/media/Peack2Beach_full.3d74603649cc9681fa12.png",
+    "static/media/Peak2Beach_header.png": "/shrey3000.github.io/P2B/static/media/Peak2Beach_header.5eb6f78fea46fb99a887.png",
+    "static/media/logo.svg": "/shrey3000.github.io/P2B/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shrey3000.github.io/P2B/index.html",
+    "main.e7fdada0.css.map": "/shrey3000.github.io/P2B/static/css/main.e7fdada0.css.map",
+    "main.4effc35f.js.map": "/shrey3000.github.io/P2B/static/js/main.4effc35f.js.map",
+    "453.5a9a3c59.chunk.js.map": "/shrey3000.github.io/P2B/static/js/453.5a9a3c59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cf4901c.css",
-    "static/js/main.5c234191.js"
+    "static/css/main.e7fdada0.css",
+    "static/js/main.4effc35f.js"
   ]
 }
